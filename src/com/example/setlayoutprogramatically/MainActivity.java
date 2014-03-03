@@ -61,7 +61,7 @@ public class MainActivity extends Activity
         rightGravityParams.gravity = Gravity.RIGHT;
         
         Button btn2 = new Button(this);
-        btn2.setText("Button2");
+        btn2.setText("Button2");   
         linLayout.addView(btn2, rightGravityParams);
 		
 	}
